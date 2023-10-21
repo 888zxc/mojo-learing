@@ -1,2 +1,3 @@
-# blog
-888zxc.github.io/blog
+# mojo
+
+在mojo的安装中，一定要先把linux的源更换成国内的镜像源，不然会浪费很多时间。
